@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+srt2vtt/srt2vtt.egg-info/PKG-INFO
+srt2vtt/srt2vtt.egg-info/SOURCES.txt
+srt2vtt/srt2vtt.egg-info/dependency_links.txt
+srt2vtt/srt2vtt.egg-info/entry_points.txt
+srt2vtt/srt2vtt.egg-info/not-zip-safe
+srt2vtt/srt2vtt.egg-info/top_level.txt

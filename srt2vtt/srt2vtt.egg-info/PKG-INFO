@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: srt2vtt
+Version: 0.0.0
+Summary: Used to automatically convert srt files to vtt files.
+Home-page: None
+Author: Chase Anderson
+Author-email: chase@anderson.vet
+License: BSD 3-Clause License
+Keywords: srt,vtt,setuptools
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# srt2vtt
+Simple CLI wrapper to convert SRT to VTT
+Written for Python3.10
+This is originally meant for folks who have no idea how to use python and have limited CLI experience.
+To run:
+```
+python srt2vtt.py
+```
+It will convert files in a directory you choose or the current working directory of the terminal window.
+Please remember to verify content and timing accuracy after conversion.
